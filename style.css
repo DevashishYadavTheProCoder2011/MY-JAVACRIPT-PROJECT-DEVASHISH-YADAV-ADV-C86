@@ -1,0 +1,70 @@
+body{
+    background: radial-gradient(
+    circle,
+    rgb(241, 238, 242) 0%,
+    rgba(0, 255, 247, 1) 100%
+  );	
+    
+    font-size: x-large;
+    
+}
+
+.box1{
+    text-align: center;
+    padding: 40px 40px 5px 20px;
+   
+}
+
+.box2{
+    text-align: center;
+    padding: 40px 40px 50px 113px;
+}
+#add_button{
+    background-color: lightsalmon;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 50px;
+    border-color: black;
+    border-width: 2px;
+}
+#clear{
+    background-color: lightsalmon;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 50px;
+    border-color: black;
+    border-width: 2px;  
+}
+#sort_button{
+    background-color: rgb(200, 83, 37);
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 50px;
+    border-color: black;
+    border-width: 2px;
+}
+#logo{
+    width: 400px;
+    height:400px;
+}
+#student_name{
+    background-color: bisque;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+#score{
+    background-color: bisque;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+#scores{
+    background-color: bisque;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#average_score{
+    background-color: bisque;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
